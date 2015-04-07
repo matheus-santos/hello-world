@@ -1,2 +1,2 @@
 # hello-world
-My first Laravel app
+My first Laravel app.
