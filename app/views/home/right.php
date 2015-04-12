@@ -1,0 +1,1 @@
+<div class="col-md-4"> This is the right side. </div>

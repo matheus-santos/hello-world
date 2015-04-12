@@ -1,0 +1,1 @@
+<div class="col-md-4">Greetings <?php echo $bundle['user']['name'] ?></div>
